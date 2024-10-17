@@ -1,0 +1,36 @@
+mkdir proyects
+
+cd proyects
+
+mkdir new_page
+
+cd new_page
+
+git
+
+git init
+
+ls -a
+
+ls
+
+open .
+
+git status
+
+git commit
+
+open index.html
+
+git add index.html
+
+git status
+
+git add index.html
+
+git status
+
+git commit
+
+git status
+
